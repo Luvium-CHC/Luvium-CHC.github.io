@@ -8,8 +8,8 @@ const RESOURCES = {"version.json": "20db43e9be343d31233211afc0ed3168",
 "icons/Icon-192.png": "e158941be161df319cbae10d2fb2347b",
 "icons/Icon-maskable-192.png": "e158941be161df319cbae10d2fb2347b",
 "icons/Icon-512.png": "bd8a5794d3d8c935a230fa11aba69a89",
-"index.html": "70ada77cd4bf1c2d8353e31ccf61e54c",
-"/": "70ada77cd4bf1c2d8353e31ccf61e54c",
+"index.html": "ae8b5bacd2cabd33efc33a931143f5af",
+"/": "ae8b5bacd2cabd33efc33a931143f5af",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/AssetManifest.json": "e9ad0c2734eeb05bd3e30e394258750d",
@@ -34,7 +34,7 @@ const RESOURCES = {"version.json": "20db43e9be343d31233211afc0ed3168",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
 "canvaskit/skwasm.wasm": "e42815763c5d05bba43f9d0337fa7d84",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
-"main.dart.js": "d3720c2ed708ce51fe169fe60c4dbc52"};
+"main.dart.js": "0e61ff4d0d92ecb7877747085383386a"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
